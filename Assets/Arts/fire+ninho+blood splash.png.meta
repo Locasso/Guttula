@@ -1,0 +1,540 @@
+fileFormatVersion: 2
+guid: d164e70168943124d918d3c4e5d738f0
+timeCreated: 1500761672
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: fire+ninho+blood splash_0
+    21300002: fire+ninho+blood splash_1
+    21300004: fire+ninho+blood splash_2
+    21300006: fire+ninho+blood splash_3
+    21300008: fire+ninho+blood splash_4
+    21300010: fire+ninho+blood splash_5
+    21300012: fire+ninho+blood splash_6
+    21300014: fire+ninho+blood splash_7
+    21300016: fire+ninho+blood splash_8
+    21300018: fire+ninho+blood splash_9
+    21300020: fire+ninho+blood splash_10
+    21300022: fire+ninho+blood splash_11
+    21300024: fire+ninho+blood splash_12
+    21300026: fire+ninho+blood splash_13
+    21300028: fire+ninho+blood splash_14
+    21300030: fire+ninho+blood splash_15
+    21300032: fire+ninho+blood splash_16
+    21300034: fire+ninho+blood splash_17
+    21300036: fire+ninho+blood splash_18
+    21300038: fire+ninho+blood splash_19
+    21300040: fire+ninho+blood splash_20
+    21300042: fire+ninho+blood splash_21
+    21300044: fire+ninho+blood splash_22
+    21300046: fire+ninho+blood splash_23
+    21300048: fire+ninho+blood splash_24
+    21300050: fire+ninho+blood splash_25
+    21300052: fire+ninho+blood splash_26
+    21300054: fire+ninho+blood splash_27
+    21300056: fire+ninho+blood splash_28
+    21300058: fire+ninho+blood splash_29
+    21300060: fire+ninho+blood splash_30
+    21300062: fire+ninho+blood splash_31
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fire+ninho+blood splash_0
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 232
+        width: 154
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fire+ninho+blood splash_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 178
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fire+ninho+blood splash_2
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 177
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fire+ninho+blood splash_3
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 178
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fire+ninho+blood splash_4
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 179
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fire+ninho+blood splash_5
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 178
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fire+ninho+blood splash_6
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 178
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fire+ninho+blood splash_7
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 177
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fire+ninho+blood splash_8
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 176
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fire+ninho+blood splash_9
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 176
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fire+ninho+blood splash_10
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 176
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fire+ninho+blood splash_11
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 171
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fire+ninho+blood splash_12
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 170
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fire+ninho+blood splash_13
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 181
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fire+ninho+blood splash_14
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 170
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fire+ninho+blood splash_15
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 116
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fire+ninho+blood splash_16
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 115
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fire+ninho+blood splash_17
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 116
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fire+ninho+blood splash_18
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 117
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fire+ninho+blood splash_19
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 116
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fire+ninho+blood splash_20
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 116
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fire+ninho+blood splash_21
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 115
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fire+ninho+blood splash_22
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 114
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fire+ninho+blood splash_23
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 114
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fire+ninho+blood splash_24
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 113
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fire+ninho+blood splash_25
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 108
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fire+ninho+blood splash_26
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 107
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fire+ninho+blood splash_27
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 118
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fire+ninho+blood splash_28
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 107
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fire+ninho+blood splash_29
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 28
+        width: 79
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fire+ninho+blood splash_30
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 25
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fire+ninho+blood splash_31
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 16
+        width: 174
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

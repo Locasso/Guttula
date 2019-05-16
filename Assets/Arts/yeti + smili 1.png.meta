@@ -1,0 +1,736 @@
+fileFormatVersion: 2
+guid: 3f349d3d940d22e4bababfdd6bb5e752
+timeCreated: 1500739653
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: yeti + smili 1_0
+    21300002: yeti + smili 1_1
+    21300004: yeti + smili 1_2
+    21300006: yeti + smili 1_3
+    21300008: yeti + smili 1_4
+    21300010: yeti + smili 1_5
+    21300012: yeti + smili 1_6
+    21300014: yeti + smili 1_7
+    21300016: yeti + smili 1_8
+    21300018: yeti + smili 1_9
+    21300020: yeti + smili 1_10
+    21300022: yeti + smili 1_11
+    21300024: yeti + smili 1_12
+    21300026: yeti + smili 1_13
+    21300028: yeti + smili 1_14
+    21300030: yeti + smili 1_15
+    21300032: yeti + smili 1_16
+    21300034: yeti + smili 1_17
+    21300036: yeti + smili 1_18
+    21300038: yeti + smili 1_19
+    21300040: yeti + smili 1_20
+    21300042: yeti + smili 1_21
+    21300044: yeti + smili 1_22
+    21300046: yeti + smili 1_23
+    21300048: yeti + smili 1_24
+    21300050: yeti + smili 1_25
+    21300052: yeti + smili 1_26
+    21300054: yeti + smili 1_27
+    21300056: yeti + smili 1_28
+    21300058: yeti + smili 1_29
+    21300060: yeti + smili 1_30
+    21300062: yeti + smili 1_31
+    21300064: yeti + smili 1_32
+    21300066: yeti + smili 1_33
+    21300068: yeti + smili 1_34
+    21300070: yeti + smili 1_35
+    21300072: yeti + smili 1_36
+    21300074: yeti + smili 1_37
+    21300076: yeti + smili 1_38
+    21300078: yeti + smili 1_39
+    21300080: yeti + smili 1_40
+    21300082: yeti + smili 1_41
+    21300084: yeti + smili 1_42
+    21300086: yeti + smili 1_43
+    21300088: yeti + smili 1_44
+    21300090: yeti + smili 1_45
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: yeti + smili 1_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 481
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yeti + smili 1_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 481
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yeti + smili 1_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 481
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yeti + smili 1_3
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 481
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yeti + smili 1_4
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 514
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yeti + smili 1_5
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 514
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yeti + smili 1_6
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 504
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yeti + smili 1_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 504
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yeti + smili 1_8
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 489
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yeti + smili 1_9
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 484
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yeti + smili 1_10
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 489
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yeti + smili 1_11
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 484
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yeti + smili 1_12
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 479
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yeti + smili 1_13
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 479
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yeti + smili 1_14
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 479
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yeti + smili 1_15
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 479
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yeti + smili 1_16
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 444
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yeti + smili 1_17
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 444
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yeti + smili 1_18
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 444
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yeti + smili 1_19
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 444
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yeti + smili 1_20
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 316
+        width: 75
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yeti + smili 1_21
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 316
+        width: 75
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yeti + smili 1_22
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 214
+        width: 88
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yeti + smili 1_23
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 214
+        width: 86
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yeti + smili 1_24
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 215
+        width: 90
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yeti + smili 1_25
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 214
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yeti + smili 1_26
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 214
+        width: 95
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yeti + smili 1_27
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 215
+        width: 87
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yeti + smili 1_28
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 214
+        width: 92
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yeti + smili 1_29
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 215
+        width: 86
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yeti + smili 1_30
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 214
+        width: 81
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yeti + smili 1_31
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 213
+        width: 82
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yeti + smili 1_32
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 105
+        width: 86
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yeti + smili 1_33
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 105
+        width: 86
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yeti + smili 1_34
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 36
+        width: 111
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yeti + smili 1_35
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 35
+        width: 111
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yeti + smili 1_36
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 36
+        width: 111
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yeti + smili 1_37
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 38
+        width: 116
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yeti + smili 1_38
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 89
+        width: 103
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yeti + smili 1_39
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 87
+        width: 115
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yeti + smili 1_40
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 81
+        width: 125
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yeti + smili 1_41
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 6
+        width: 86
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yeti + smili 1_42
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 6
+        width: 86
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yeti + smili 1_43
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 21
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yeti + smili 1_44
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 21
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yeti + smili 1_45
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 23
+        width: 128
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
